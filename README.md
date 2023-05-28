@@ -5,15 +5,22 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![PaulGudino's github stats](https://github-readme-stats.vercel.app/api?username=PaulGudino&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulGudino&theme=tokyonight" alt="mystreak"/>
-![PaulGudino's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulGudino&theme=tokyonight&layout=compact)
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulGudino&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=PaulGudino&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-paulmgp2002@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:paulmgp2002@gmail.com)](paulmgp2002@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-paulmgp28-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/paulmgp28/)](https://www.instagram.com/paulmgp28/)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/paulmgp28/) 
+[![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/paulmauricio.gudinopacha.14) 
+[![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png )](paulmgp2002@gmail.com)
 
 
 <!--
